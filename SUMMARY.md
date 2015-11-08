@@ -1,11 +1,10 @@
 - Prologue
-    - [Release Notes](/docs/{{version}}/releases)
-    - [Upgrade Guide](/docs/{{version}}/upgrade)
-    - [Contribution Guide](/docs/{{version}}/contributions)
-    - [API Documentation](/api/{{version}})
+    - [Release Notes](releases.md)
+    - [Upgrade Guide](upgrade.md)
+    - [Contribution Guide](contributions.md)
 - Setup
-    - [Installation](/docs/{{version}}/installation)
-    - [Homestead](/docs/{{version}}/homestead)
+    - [Installation](installation.md)
+    - [Homestead](homestead.md)
 - Tutorials
     - [Beginner Task List](/docs/{{version}}/quickstart)
     - [Intermediate Task List](/docs/{{version}}/quickstart-intermediate)
